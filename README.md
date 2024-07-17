@@ -1,2 +1,1 @@
-Manjay Lal Patel 
-Group 7
+#AIStylist_Manjay_Lal_Patel_Group_7
